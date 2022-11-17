@@ -16,5 +16,6 @@ public class Main {
         fullName1 = fullName1.replace("ё", "е");
         System.out.println("Данные ФИО сотрудника —" + " " + fullName1);
 
+
     }
 }
